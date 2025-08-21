@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hola, soy Mía (Chinita) ✨</h1>
+<h1 align="center">Hola, soy Mía (Chinita) ✨</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/JZ6M3qf.gif" width="200px" alt="Cute cat gif"/>
@@ -12,13 +12,6 @@
 - 🌍 Apasionada por la **automatización y la programación**
 - 💜 Tengo 18 años  
 - ✨ Siempre creando proyectos nuevos en GitHub
-
----
-
-### 🖼️ Mi Foto
-<p align="center">
-  <img src="AQUÍ_PONES_EL_LINK_DE_TU_FOTO" width="250px" alt="Foto de Mía"/>
-</p>
 
 ---
 
