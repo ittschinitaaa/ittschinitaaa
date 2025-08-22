@@ -1,14 +1,14 @@
 <h1 align="center">Hola, soy Mía (Chinita) ✨</h1>
 
 <p align="center">
-  <img src="https.github.com/ittschinitaaa.png" width="200px" alt="Cute cat gif"/>
+  <img src="https://github.com/ittschinitaaa.png" width="200px" alt="Cute cat gif"/>
 </p>
 
 ---
 
 ### 🌸 Sobre mí
 - 💻 CEO y creadora de **bots de WhatsApp**
-- 🐱 Desarrolladora de **CatBot-MD, Yuki Suou, Luna y Mitzuki**
+- 🐱 Desarrolladora de **China**
 - 🌍 Apasionada por la **automatización y la programación**
 - 💜 Tengo 18 años  
 - ✨ Siempre creando proyectos nuevos en GitHub
