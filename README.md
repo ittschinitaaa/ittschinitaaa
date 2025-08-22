@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Mía (Chinita) ✨</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/JZ6M3qf.gif" width="200px" alt="Cute cat gif"/>
+  <img src="https.github.com/ittschinitaaa.png" width="200px" alt="Cute cat gif"/>
 </p>
 
 ---
