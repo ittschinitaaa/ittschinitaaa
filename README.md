@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Mía (Chinita) ✨</h1>
+<h1 align="center">Hola, Soy Chinita ✨</h1>
 
 <p align="center">
   <img src="https://github.com/ittschinitaaa.png" width="200px" alt="Cute cat gif"/>
@@ -16,10 +16,10 @@
 ---
 
 ### 🌐 Contacto
-- 📱 WhatsApp: [+54 264 413 1963](https://wa.me/542644131963)  
-- 📧 Email: **mia.dev.contact@gmail.com**  
-- 🐙 GitHub: [miaoficial02](https://github.com/miaoficial02)  
-- 📷 Instagram: [@mia.chinita](https://instagram.com/)  
+- 📱 WhatsApp: [+54 264 499 6684](https://wa.me/542644996684)  
+- 📧 Email: **itts.chinitaaa@gmail.com**  
+- 🐙 GitHub 2: [miaoficial02](https://github.com/miaoficial02)  
+- 📷 Instagram: [@its.chinitaaa_](https://instagram.com/)  
 
 ---
 
