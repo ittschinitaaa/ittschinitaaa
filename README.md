@@ -8,7 +8,7 @@
 
 ### 🌸 Sobre mí
 - 💻 CEO y creadora de **bots de WhatsApp**
-- 🐱 Desarrolladora de **China**
+- 🐱 Desarrolladora de **China Mitzuki**
 - 🌍 Apasionada por la **automatización y la programación**
 - 💜 Tengo 18 años  
 - ✨ Siempre creando proyectos nuevos en GitHub
