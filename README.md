@@ -1,34 +1,50 @@
-<h1 align="center">Hola, Soy Chinita ✨</h1>
+<h1 align="center">✨ Hola, soy Mía (Chinita) ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/ittschinitaaa.png" width="200px" alt="Cute cat gif"/>
+  <img src="https://i.ibb.co/7JfqXxB/astro-girl.gif" width="250px">
 </p>
 
 ---
 
-### 🌸 Sobre mí
-- 💻 CEO y creadora de **bots de WhatsApp**
-- 🐱 Desarrolladora de **Senko-Bot**
-- 🌍 Apasionada por la **automatización y la programación**
-- 💜 Tengo 18 años  
-- ✨ Siempre creando proyectos nuevos en GitHub
+### 🌌 Sobre mí  
+- 👩‍💻 CEO y creadora de bots en WhatsApp  
+- 🪐 Apasionada por la programación, la creatividad y la estética  
+- 🌸 Siempre mejorando mis proyectos para que sean únicos y modernos  
+- 🎨 Me gusta que todo se vea **elegante y futurista**  
 
 ---
 
-### 🌐 Contacto
-- 📱 WhatsApp: [aqui](https://wa.me/542644996684)  
-- 📧 Email: **itts.chinitaaa@gmail.com**  
-- 🐙 GitHub 2: [aquí](https://github.com/miaoficial02)  
-- 📷 Instagram: [aqui_](https://instagram.com/its.chinitaaa_)  
-
----
-
-### 📊 Estadísticas de GitHub
+### 🚀 Tecnologías y herramientas  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ittschinitaaa&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittschinitaaa&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,github,vscode,html,css,python,git" />
 </p>
 
 ---
 
-<p align="center">✨ Gracias por visitar mi perfil ✨</p>
+### 🌟 Mis proyectos destacados
+- 🐱 [CatBot-MD](https://github.com/miaoficial02/CatBot-MD) → Un bot de WhatsApp modular y moderno  
+- 🌙 [Luna Bot](https://github.com/miaoficial02) → Base personalizada con estilo propio  
+- 🧩 [Base-Nueva](https://github.com/miaoficial02/Base-nueva) → Estructura limpia y adaptable  
+
+---
+
+### 💫 Stats de GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miaoficial02&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=miaoficial02&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+---
+
+### ✨ Frase que me inspira  
+> 🌌 *"Crea algo tan bonito y único que deje tu esencia en el universo digital."* 🌸  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">  
+  🌸 Gracias por visitar mi perfil 🌸  
+</p>
