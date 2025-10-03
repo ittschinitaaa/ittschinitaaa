@@ -1,4 +1,4 @@
-<h1 align="center">米娅·罗斯利亚科娃🇨🇳</h1>
+<h1 align="center">𝕮𝖍𝖎𝖓𝖆 🇨🇳</h1>
 
 <p align="center">
   <img src="https://i.ibb.co/7JfqXxB/astro-girl.gif" width="250px">
@@ -29,8 +29,8 @@
 
 ### 💫 Stats de GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miaoficial02&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=miaoficial02&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ittschinitaaa&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ittschinitaaa&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
