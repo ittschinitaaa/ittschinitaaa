@@ -1,4 +1,4 @@
-<h1 align="center">𝕮𝖍𝖎𝖓𝖆 🇨🇳</h1>
+<h1 align="center">𝑪𝑯𝑰𝑵𝑰𝑻𝑨 | ᵒᶠᶦᶜᶦᵃˡ</h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/gidz7t.jpg" width="250px">
