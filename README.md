@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hola, soy Mía (Chinita) ✨</h1>
+<h1 align="center">𝗛𝗼𝗹𝗮,𝗺𝗶 𝗻𝗼𝗺𝗯𝗿𝗲 𝗲𝘀 𝗖𝗵𝗶𝗻𝗮</h1>
 
 <p align="center">
   <img src="https://i.ibb.co/7JfqXxB/astro-girl.gif" width="250px">
