@@ -1,7 +1,7 @@
 <h1 align="center">𝕮𝖍𝖎𝖓𝖆 🇨🇳</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/7JfqXxB/astro-girl.gif" width="250px">
+  <img src="https://files.catbox.moe/gidz7t.jpg" width="250px">
 </p>
 
 ---
