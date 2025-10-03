@@ -8,7 +8,7 @@
 
 ### 🌸 Sobre mí
 - 💻 CEO y creadora de **bots de WhatsApp**
-- 🐱 Desarrolladora de **China Mitzuki**
+- 🐱 Desarrolladora de **Senko-Bot**
 - 🌍 Apasionada por la **automatización y la programación**
 - 💜 Tengo 18 años  
 - ✨ Siempre creando proyectos nuevos en GitHub
@@ -16,10 +16,10 @@
 ---
 
 ### 🌐 Contacto
-- 📱 WhatsApp: [+54 264 499 6684](https://wa.me/542644996684)  
+- 📱 WhatsApp: [aqui](https://wa.me/542644996684)  
 - 📧 Email: **itts.chinitaaa@gmail.com**  
-- 🐙 GitHub 2: [miaoficial02](https://github.com/miaoficial02)  
-- 📷 Instagram: [@its.chinitaaa_](https://instagram.com/)  
+- 🐙 GitHub 2: [aquí](https://github.com/miaoficial02)  
+- 📷 Instagram: [aqui_](https://instagram.com/its.chinitaaa_)  
 
 ---
 
