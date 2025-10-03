@@ -32,15 +32,10 @@
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/miaoficial02/Mitzuki">
+  <a href="https://github.com/ittschinitaaa/Senko-Bot">
     <img src="https://img.shields.io/badge/Mitzuki-Bot_WA-orange?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/miaoficial02/CatBot-MD">
-    <img src="https://img.shields.io/badge/CatBot-MD-Modular-red?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/miaoficial02/Base-nueva">
-    <img src="https://img.shields.io/badge/Base-nueva-Clean-blue?style=for-the-badge&logo=github" />
-  </a>
+
 </div>
 
 ---
