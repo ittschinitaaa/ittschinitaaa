@@ -1,7 +1,7 @@
 <h1 align="center">𝑪𝑯𝑰𝑵𝑰𝑻𝑨 | ᵒᶠᶦᶜᶦᵃˡ</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/gidz7t.jpg" width="250px">
+  <img src="https://files.catbox.moe/i2o4y3.jpg" width="250px">
 </p>
 
 ---
