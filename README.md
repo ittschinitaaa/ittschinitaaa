@@ -3,9 +3,9 @@
 
 ## ¡Hola! Bienvenid@ a mi perfil 💞
 
-> **Soy un Desarrollador Principiante de bots de WhatsAp 😁.**
+> **Lo que hoy siembras mañana florece.**
 
-### Espero te Agrade y dejes una Estrellita ⭐ me Ayudaría muchísimo.
+### me ayudarias mucho dejando una estrellita. 🌟
 
 ### 💫 Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad, No te pierdas esta oportunidad de formar parte de nuestra Familia. ¡Te esperamos! ❤️
 
@@ -27,5 +27,5 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<a href="https://github.com/ittschinitaaa/Senko-Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ittschinitaaa&repo=Senko-Bot&theme=black)</a>
+<a href="https://github.com/ittschinitaaa/Senko-Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ittschinitaaa&repo=Senko-Bot&theme=orange)</a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
