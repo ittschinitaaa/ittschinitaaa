@@ -22,9 +22,7 @@
 ---
 
 ### 🌟 Mis proyectos destacados
-- 🐱 [CatBot-MD](https://github.com/miaoficial02/CatBot-MD) → Un bot de WhatsApp modular y moderno  
-- 🌙 [Luna Bot](https://github.com/miaoficial02) → Base personalizada con estilo propio  
-- 🧩 [Base-Nueva](https://github.com/miaoficial02/Base-nueva) → Estructura limpia y adaptable  
+- 🦊 [𝗦𝗲𝗻𝗸𝗼-𝗕𝗼𝘁](https://github.com/ittschinitaaa/Senko-Bot) → Un bot de WhatsApp modular y moderno  
 
 ---
 
@@ -46,5 +44,5 @@
 </p>
 
 <p align="center">  
-  🌸 Gracias por visitar mi perfil 🌸  
+  `© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᥴһіᥒі𝗍ᥲᥲᥲ`
 </p>
