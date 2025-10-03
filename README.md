@@ -24,7 +24,6 @@
 ### 🌟 Mis proyectos destacados
   
 <a href="https://github.com/ittschinitaaa/Senko-Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ittschinitaaa&repo=Senko-Bot&theme=orange)</a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
 
 ---
 
