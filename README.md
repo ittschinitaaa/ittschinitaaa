@@ -1,68 +1,59 @@
-<h1 align="center">👋 Hola, soy Mía (Chinita)</h1>
 <p align="center">
-  <em>Desarrolladora creativa & amante de la tecnología elegante</em>
+  <img src="https://i.imgur.com/Q9qFt3m.png" alt="Banner elegante" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F7AB0A&center=true&vCenter=true&width=500&lines=Construyendo+bots+%E2%9C%A8+|+Automatizando+ideas+|+Diseñando+futuro" alt="Typing SVG"/>
-</p>
+# 👋 ¡Bienvenido a mi perfil!
+
+¡Hola! Soy **Mía (Chinita)**.  
+Desarrolladora de **bots de WhatsApp** y amante de la tecnología elegante ✨
 
 ---
 
-## 🔮 Sobre mí
-- 💻 Creo **bots personalizados** y herramientas modernas  
-- 🎨 Apasionada por el **diseño limpio y elegante**  
-- 🌐 Explorando nuevas tecnologías y APIs  
-- ⚡ Siempre buscando la **simplicidad sofisticada**  
+## 🌟 Un poco sobre mí
+- 💻 Creo **bots y herramientas únicas**  
+- 🎨 Me encanta el **diseño limpio y sofisticado**  
+- 🌐 Siempre explorando nuevas **ideas y APIs**  
+- ❤️ Me apasiona compartir conocimiento y proyectos  
 
 ---
 
-## 🛠 Habilidades
-
+## ✨ Contactame
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff" />
+  <a href="https://instagram.com/miaoficial02">📸 Instagram</a> •
+  <a href="mailto:example@email.com">✉️ Email</a> •
+  <a href="https://wa.me/542644131963">💬 WhatsApp</a>
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miaoficial02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaoficial02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 💻 Mis Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/ittschinitaaa/Senko-Bot">
-    <img src="https://img.shields.io/badge/Senko-Bot-orange?style=for-the-badge&logo=github" />
+  <a href="https://github.com/miaoficial02/Mitzuki">
+    <img src="https://i.imgur.com/4xQXkOV.png" width="180" alt="Mitzuki Bot" />
+    <p>Mitzuki Bot<br><em>Bot de WhatsApp moderno y elegante</em></p>
   </a>
-
+  <a href="https://github.com/miaoficial02/CatBot-MD">
+    <img src="https://i.imgur.com/SlXQzPN.png" width="180" alt="CatBot-MD" />
+    <p>CatBot-MD<br><em>Bot modular con administración y herramientas</em></p>
+  </a>
+  <a href="https://github.com/miaoficial02/Base-nueva">
+    <img src="https://i.imgur.com/ztVtM7u.png" width="180" alt="Base-nueva" />
+    <p>Base-nueva<br><em>Base limpia y moderna para nuevos bots</em></p>
+  </a>
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miaoficial02&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaoficial02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Contáctame
-<p align="center">
-  <a href="https://instagram.com/miaoficial02">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff" />
-  </a>
-  <a href="https://wa.me/542644131963">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=fff" />
-  </a>
-  <a href="https://github.com/miaoficial02">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=fff" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>“La simplicidad es la máxima sofisticación.” – Leonardo da Vinci</em>
+> “La simplicidad es la máxima sofisticación.” – Leonardo da Vinci
 </p>
