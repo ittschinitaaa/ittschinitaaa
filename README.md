@@ -1,48 +1,14 @@
-<h1 align="center">✨ Hola, soy Mía (Chinita) ✨</h1>
-
-<p align="center">
-  <img src="https://i.ibb.co/7JfqXxB/astro-girl.gif" width="250px">
-</p>
-
----
-
-### 🌌 Sobre mí  
-- 👩‍💻 CEO y creadora de bots en WhatsApp  
-- 🪐 Apasionada por la programación, la creatividad y la estética  
-- 🌸 Siempre mejorando mis proyectos para que sean únicos y modernos  
-- 🎨 Me gusta que todo se vea **elegante y futurista**  
+<!-- Encabezado con animación futurista -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+mundo+cibernético...;Soy+Mía+(Chinita)+👩🏻‍💻;CEO+y+Developer+de+Bots;Estética+Hacker+🌌+Futurista+💻">
+</h1>
 
 ---
 
-### 🚀 Tecnologías y herramientas  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,github,vscode,html,css,python,git" />
-</p>
-
----
-
-### 🌟 Mis proyectos destacados
-- 🦊 [𝗦𝗲𝗻𝗸𝗼-𝗕𝗼𝘁](https://github.com/ittschinitaaa/Senko-Bot) → Un bot de WhatsApp modular y moderno  
-
----
-
-### 💫 Stats de GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miaoficial02&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=miaoficial02&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
----
-
-### ✨ Frase que me inspira  
-> 🌌 *"Crea algo tan bonito y único que deje tu esencia en el universo digital."* 🌸  
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">  
-> *© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᥴһіᥒі𝗍ᥲᥲᥲ*
-</p>
+### 🕶️ Whoami
+```bash
+$ whoami
+> Name: Mía "Chinita"
+> Role: CEO | Developer | Futuristic Coder
+> Skills: Bot Development, Cybersecurity vibes, Automation
+> Motto: "El código es arte disfrazado de lógica."
