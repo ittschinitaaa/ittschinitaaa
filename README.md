@@ -1,4 +1,4 @@
-<h1 align="center">米娅·罗斯利亚科娃 🇨🇳</h1>
+<h1 align="center">米娅·罗斯利亚科娃🇨🇳</h1>
 
 <p align="center">
   <img src="https://i.ibb.co/7JfqXxB/astro-girl.gif" width="250px">
