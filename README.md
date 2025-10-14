@@ -6,7 +6,7 @@
 
 ---
 
-### 🌌 Sobre mí  
+#🌌 `𝗦𝗼𝗯𝗿𝗲 𝗺𝗶`
 - 👩‍💻 CEO y creadora de bots en WhatsApp  
 - 🪐 Apasionada por la programación, la creatividad y la estética  
 - 🌸 Siempre mejorando mis proyectos para que sean únicos y modernos  
