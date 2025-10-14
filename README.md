@@ -6,7 +6,7 @@
 
 ---
 
-#🌌 `𝗦𝗼𝗯𝗿𝗲 𝗺𝗶`
+🌌 `𝗦𝗢𝗕𝗥𝗘 𝗠𝗜𝗶`
 - 👩‍💻 CEO y creadora de bots en WhatsApp  
 - 🪐 Apasionada por la programación, la creatividad y la estética  
 - 🌸 Siempre mejorando mis proyectos para que sean únicos y modernos  
@@ -14,14 +14,14 @@
 
 ---
 
-### 🚀 Tecnologías y herramientas  
+`🚀 𝗧𝗘𝗖𝗡𝗢𝗟𝗢𝗚𝗜𝗔𝗦 𝗬 𝗛𝗘𝗥𝗥𝗔𝗠𝗜𝗘𝗡𝗧𝗔𝗦`  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,github,vscode,html,css,python,git" />
 </p>
 
 ---
 
-### 🌟 Mis proyectos destacados
+`🌷𝗠𝗜𝗦 𝗣𝗥𝗢𝗬𝗘𝗖𝗧𝗢𝗦 𝗗𝗘𝗦𝗧𝗔𝗖𝗔𝗗𝗢𝗦`
 
 <p align="center">
   <a href="https://github.com/ittschinitaaa/Aiko-Bot">
@@ -37,7 +37,7 @@
 
 ---
 
-### 💫 Stats de GitHub  
+`💫 𝗦𝗧𝗔𝗧𝗦 𝗗𝗘 𝗚𝗜𝗧𝗛𝗨𝗕`
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ittschinitaaa&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ittschinitaaa&theme=tokyonight&hide_border=true" height="180px"/>
@@ -45,7 +45,7 @@
 
 ---
 
-### ✨ Frase que me inspira  
+`🌱 𝗙𝗥𝗔𝗦𝗘 𝗤𝗨𝗘 𝗠𝗘 𝗜𝗡𝗦𝗣𝗜𝗥𝗔`
 > 🌌 *"Crea algo tan bonito y único que deje tu esencia en el universo digital."* 🌸  
 
 ---
