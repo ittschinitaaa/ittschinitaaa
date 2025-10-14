@@ -53,8 +53,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
----
+
 <p align="center">    
 🌻 Gracias por visitar mi perfil 🌻  
 </p>
----
+
+> *hola*
