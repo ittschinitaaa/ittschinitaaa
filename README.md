@@ -25,13 +25,13 @@
 
 <p align="center">
   <a href="https://github.com/ittschinitaaa/Aiko-Bot">
-    <img src="https://files.catbox.moe/bzpcgp.jpg" width="250" alt="Aiko Bot"/>
+    <img src="https://files.catbox.moe/bzpcgp.jpg" width="150" alt="Aiko Bot"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ittschinitaaa/Senko-Bot">
-    <img src="https://files.catbox.moe/swwwag.jpg" width="250" alt="Senko Bot"/>
+    <img src="https://files.catbox.moe/swwwag.jpg" width="150" alt="Senko Bot"/>
   </a>
 </p>
 
