@@ -55,5 +55,5 @@
 </p>
 
 
-> *🌻 Gracias por visitar mi perfil 🌻*
+> *🌻 Muchas Gracias por visitar mi perfil 🌻*
 
