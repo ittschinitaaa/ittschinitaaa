@@ -23,7 +23,7 @@
 
 ### 🌟 Mis proyectos destacados
 
-[![𝗔𝗜𝗞𝗢 𝗕𝗢𝗧]()](https://github.com/ittschinitaaa/Aiko-Bot)
+[![𝗔𝗜𝗞𝗢 𝗕𝗢𝗧](https://files.catbox.moe/bzpcgp.jpg)](https://github.com/ittschinitaaa/Aiko-Bot)
 
 [![𝗦𝗘𝗡𝗞𝗢 𝗕𝗢𝗧](https://files.catbox.moe/swwwag.jpg)](https://github.com/ittschinitaaa/Senko-Bot)
 
