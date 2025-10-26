@@ -24,7 +24,7 @@
 `🌷𝗠𝗜𝗦 𝗣𝗥𝗢𝗬𝗘𝗖𝗧𝗢𝗦 𝗗𝗘𝗦𝗧𝗔𝗖𝗔𝗗𝗢𝗦`
 
 <p align="center">
-  <a href="https://github.com/ittschinitaaa/Aiko-Bot">
+  <a href="https://github.com/ittschinitaaa/Aiko-Wa_Bot">
     <img src="https://files.catbox.moe/bzpcgp.jpg" width="150" alt="Aiko Bot"/>
   </a>
 </p>
